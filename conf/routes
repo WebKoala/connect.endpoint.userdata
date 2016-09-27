@@ -1,0 +1,2 @@
+GET /user/health        controllers.HealthController.index
+POST /user              controllers.UserDataController.create
